@@ -17,3 +17,7 @@ Dieses Projekt enthält ein kleines GUI-Tool zur Berechnung von Teilstücken. Es
 1. Repository klonen  
    ```bash
    git clone https://github.com/0Zeyrox0/Teilst-ckberechung.git
+2. ```bash
+   pip install customtkinter
+tkinter und colorsys werden unter Windows mit der Installation von Python mitgeliefert.
+
